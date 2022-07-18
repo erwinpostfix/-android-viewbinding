@@ -1,1 +1,1 @@
-# android-viewbinding
+# -android-viewbinding
